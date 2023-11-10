@@ -3,7 +3,11 @@ Aplicação teste para o sinapses.
 Passo a passo:
 
 1. Instale o nodejs
-1.1 Windows: https://nodejs.org/en/download/
+
+1.1 Windows: 
+
+https://nodejs.org/en/download/
+
 1.2 Linux Ubuntu: 
 
 sudo snap install node --classic
