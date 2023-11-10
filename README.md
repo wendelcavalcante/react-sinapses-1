@@ -24,5 +24,5 @@ npm install
 
 npm start
 
-Acesse: http://localhost:3000/react-sinapses-1
+Acesse: http://localhost:3000/react-sinapses-2
 
