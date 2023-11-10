@@ -1,9 +1,8 @@
-Aplicação teste para o sinapses.
+Aplicação 1 de teste para o sinapses.
 
 Passo a passo:
 
 1. Instale o nodejs
-
 1.1 Windows: 
 
 https://nodejs.org/en/download/
@@ -24,5 +23,11 @@ npm install
 
 npm start
 
-Acesse: http://localhost:3000/react-sinapses-2
+Acesse: http://localhost:3000/react-sinapses-1
+
+4. Execute o login.
+
+5. Acesse o menu Verifica Documento
+
+
 
